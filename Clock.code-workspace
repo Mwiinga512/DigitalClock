@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Analog Clock"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Analog Clock"
+  }
+}
